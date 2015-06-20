@@ -1,0 +1,72 @@
+Cast on Death|dex|1
+Added Lightning Damage|int|1.3
+Slower Projectiles|dex|1.4
+Physical to Lightning|int|1.1
+Added Cold Damage|dex|1.3
+Pierce|dex|1.1
+Added Chaos Damage|int|1.4
+Point Blank|dex|1.2
+Physical Projectile Attack Damage|dex|1.2
+Melee Splash|str|1.6
+Increased Critical Strikes|int|1.15
+Elemental Proliferation|int|1.4
+Enhance|dex|1.25
+Increased Burning Damage|str|1.2
+Concentrated Effect|int|1.6
+Life Leech|str|1.3
+Melee Damage on Full Life|str|1.3
+Item Quantity|str|1
+Fork|dex|1.15
+Curse on Hit|int|1
+Spell Echo|int|1.3
+Stun|str|1
+Empower|str|1.25
+Minion Life|int|1.4
+Item Rarity|int|1
+Iron Will|str|1
+Life Gain on Hit|str|1.5
+Reduced Duration|str|1.2
+Cold to Fire|str|1.1
+Minion and Totem Elemental Resistance|int|1.4
+Added Fire Damage|str|1.2
+Block Chance Reduction|dex|1.25
+Cold Penetration|dex|1.5
+Faster Attacks|dex|1.15
+Lightning Penetration|int|1.5
+Mana Leech|dex|1
+Cast On Critical Strike|dex|1.4
+Knockback|str|1
+Spell Totem|str|2.5
+Minion Speed|int|1.5
+Additional Accuracy|dex|1
+Multiple Traps|dex|1.6
+Chance to Ignite|int|1.1
+Generosity|str|1
+Melee Physical Damage|str|1.4
+Trap|dex|1.4
+Cast on Melee Kill|str|1.4
+Remote Mine|int|1.5
+Weapon Elemental Damage|str|1.5
+Blood Magic|str|1-2.45,2-2.42,3-2.39,4-2.37,5-2.34,6-2.32,7-2.29,8-2.26,9-2.24,10-2.21,11-2.18,12-2.16,13-2.13,14-2.11,15-2.08,16-2.05,17-2.03,18-2.0,19-1.97,20-1.96,21-1.93,22-1.9,23-1.87
+Increased Critical Damage|int|1.3
+Lesser Multiple Projectiles|dex|1.4
+Greater Multiple Projectiles|dex|1.65
+Ranged Attack Totem|str|2.5
+Blind|dex|1
+Iron Grip|str|1
+Minion Damage|int|1.5
+Cast when Damage Taken|str|1
+Chain|dex|1.75
+Faster Projectiles|dex|1.1
+Increased Duration|str|1.5
+Increased Area of Effect|int|1.5
+Power Charge On Critical|int|1.1
+Faster Casting|int|1.2
+Fire Penetration|str|1.4
+Culling Strike|dex|1.1
+Endurance Charge on Melee Stun|str|1.1
+Cast when Stunned|int|1
+Chance to Flee|dex|1
+Reduced Mana|str|1-0.9,2-0.89,3-0.88,4-0.87,5-0.86,6-0.85,7-0.84,8-0.83,9-0.82,10-0.81,11-0.8,12-0.79,13-0.78,14-0.77,15-0.76,16-0.75,17-0.74,18-0.73,19-0.72,20-0.71,21-0.7,22-0.69,23-0.68,24-0.67,25-0.66,26-0.65,27-0.64,28-0.63
+Multistrike|str|1.8
+Enlighten|int|1.25
